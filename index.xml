@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wenjuan Li</title><link>https://cardinalc.github.io/personalweb/</link><description>Recent content on Wenjuan Li</description><generator>Hugo -- gohugo.io</generator><language>en-GB</language><atom:link href="https://cardinalc.github.io/personalweb/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wenjuan　Li on Wenjuan Li</title><link>https://cardinalc.github.io/personalweb/</link><description>Recent content in Wenjuan　Li on Wenjuan Li</description><generator>Hugo -- gohugo.io</generator><language>en-GB</language><atom:link href="https://cardinalc.github.io/personalweb/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://cardinalc.github.io/personalweb/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cardinalc.github.io/personalweb/research/</guid><description>&lt;h2 id="mathematical-logic-theory-of-computation">Mathematical logic, theory of computation&lt;/h2>
+&lt;h3 id="pubilication">Pubilication&lt;/h3>
+&lt;h4 id="determiancay-of-omega-languages-recognized-by-various-automata">Determiancay of $\omega$-languages recognized by various automata&lt;/h4>
+&lt;ul>
+&lt;li>Wenjuan Li, Kazuyuki Tanaka. The determinacy strength of pushdown $\omega$-languages. RAIRO-Theoretical Informatics and Applications, 51(2017), pp.29-50.&lt;/li>
+&lt;li>Wenjuan Li, Shohei Okisaka, Kazuyuki Tanaka. Infinite games recognized by 2-stack visibly pushdown automata. RIMS Kokyuroku (京都大学数理解析研究所講究録), 1950(2015), pp.121-137.&lt;/li>
+&lt;/ul>
+&lt;h4 id="modal-mu-calculus">Modal $\mu$-calculus&lt;/h4>
+&lt;ul>
+&lt;li>Leonard Pacheco, Wenjuan Li, Kazuyuki Tanaka. On one-variable fragments of modal $\mu$-calculus. Computability Theory and Foundations of Mathematics 2019 (Wuhan), World-Scientific (2021), to appear.&lt;/li>
+&lt;li>Wenjuan Li, Yasuhiko Omata, Kazuyuki Tanaka. Alternation hierarchies and fragments of modal $\mu$-calculus. RIMS Kokyuroku (京都大学数理解析研究所講究録), 2083(2018), pp.98-110.&lt;/li>
+&lt;/ul>
+&lt;h4 id="query-complexity-of-game-trees">Query complexity of game trees&lt;/h4>
+&lt;ul>
+&lt;li>Shohei Okisaka, Weiguang Peng, Wenjuan Li, Kazuyuki Tanaka. The eigen-distribution of weighted game trees. Lecture Notes in Computer Science, 10627(2017), pp.286-297.&lt;/li>
+&lt;li>Weiguang Peng, Shohei Okisaka, Wenjuan Li, Kazuyuki Tanaka. The uniqueness of eigen-distribution under non-directional algorithms. IAENG International Journal of Computer Science, 43(2016), pp.318-325.&lt;/li>
+&lt;/ul></description></item></channel></rss>
