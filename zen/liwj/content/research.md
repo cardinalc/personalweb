@@ -8,13 +8,13 @@ title: "Research"
 
 ### Pubilication
 
-#### Determiancay of *ω*-languages recognized by various automata   
+#### Determiancay of $\omega$-languages recognized by various automata   
 
 - Wenjuan Li, Kazuyuki Tanaka. The determinacy strength of pushdown $\omega$-languages. RAIRO-Theoretical Informatics and Applications,  51(2017), pp.29-50.
 - Wenjuan Li, Shohei Okisaka, Kazuyuki Tanaka. Infinite games recognized by 2-stack visibly pushdown automata. RIMS Kokyuroku (京都大学数理解析研究所講究録), 1950(2015), pp.121-137.
 
 
-#### Modal *μ*-calculus 
+#### Modal $\mu$-calculus 
 - Leonard Pacheco, Wenjuan Li, Kazuyuki Tanaka. On one-variable fragments of modal $\mu$-calculus. Computability Theory and Foundations of Mathematics 2019 (Wuhan), World-Scientific (2021), to appear.
 - Wenjuan Li, Yasuhiko Omata, Kazuyuki Tanaka. Alternation hierarchies and fragments of modal $\mu$-calculus. RIMS Kokyuroku (京都大学数理解析研究所講究録), 2083(2018), pp.98-110.
 
