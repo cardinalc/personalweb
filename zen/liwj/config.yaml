@@ -10,7 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Your Name"
+  name: "Wenjuan Li"
   url: "https://example.org/somepage"
   avatar: "path/to/some-image.jpg"
 
@@ -32,7 +32,6 @@ params:
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
