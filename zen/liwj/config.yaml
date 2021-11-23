@@ -1,6 +1,6 @@
 ---
 title: "Wenjuan Li"
-baseURL: "https://example.org/"
+baseURL: "https://cardinalc.github.io/personalweb"
 theme: "zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -11,7 +11,7 @@ paginatePath: "page"
 rssLimit: 20
 author:
   name: "Wenjuan Li"
-  url: "https://example.org/somepage"
+  url: "https://cardinalc.github.io/personalweb"
   avatar: "path/to/some-image.jpg"
 
 outputFormats:
