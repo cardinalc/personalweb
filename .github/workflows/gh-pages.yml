@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --config zen/liwj/config.yaml --themesDir .
+        run: hugo --minify --config zen/liwj/config.yaml --themesDir . -c zen/liwj/content
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
