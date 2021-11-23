@@ -23,6 +23,3 @@ title: "Research"
 #### Query complexity of game trees 
 - Shohei Okisaka, Weiguang Peng, Wenjuan Li, Kazuyuki Tanaka. The eigen-distribution of weighted game trees. Lecture Notes in Computer Science,  10627(2017), pp.286-297.
 - Weiguang Peng, Shohei Okisaka, Wenjuan Li, Kazuyuki Tanaka. The uniqueness of eigen-distribution under non-directional algorithms. IAENG International Journal of Computer Science, 43(2016), pp.318-325.
-
-
-

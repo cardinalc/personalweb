@@ -2,6 +2,7 @@
 <header>
 <h1 class="title {{ if $.Param "submitted" | default false }}title-submitted{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
 {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
+
 </header>
 <div class="content">
 {{ .Content }}
