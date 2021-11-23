@@ -4,7 +4,7 @@ title: "Wenjuan　Li"
 
 ---
 
-I obtained my PhD and master degree in mathematical logic from Mathematical Institute, Tohoku University, supervised by [Prof. Kazuyuki Tanaka (田中一之)](https://sendailogic.com/tanaka/). My research interests are mathematical logic and theory of computation. 
+My name is Wenjuan Li (李文娟). I obtained my PhD and master degree in mathematical logic from Mathematical Institute, Tohoku University, supervised by [Prof. Kazuyuki Tanaka (田中一之)](https://sendailogic.com/tanaka/). My research interests are mathematical logic and theory of computation. 
 
 
 ## Working experience
@@ -33,7 +33,7 @@ RIMS-Research Institute for Mathematical Sciences, Kyoto University, Japan
 
 
 ## Others
-- [Global Young Scientists Summit](https://www.nrf.gov.sg/gyss/features/gyss-2020-highlights), 新加坡, 2020.01
+- [Global Young Scientists Summit](https://www.nrf.gov.sg/gyss/features/gyss-2020-highlights), Singapore, 2020.01
 - [IMS Graduate Summer School in Logic](https://imsarchives.nus.edu.sg/oldwww/Programs/015logicss/ss.html), IMS, National University of Singapore, 2015.06
 - [Conference on Computability Theory and Foundations of Mathematics (CTFM)](https://sendailogic.com/ctfm/), Japan,  2012-2017
 - [Sendai Logic School](https://sendailogic.com/sls/), Japan, 2012-2018
