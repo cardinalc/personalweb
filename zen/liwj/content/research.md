@@ -25,5 +25,5 @@ title: "Research"
 ##  Decision analysis
 - Xiaoli Zhang, ChenGuang Liu,  Wenjuan Li, Steve Evans, Yong Yin. Effects of key enabling technologies for seru production on sustainable performance. OMEGA -The International Journal of Management Science, 66(2017), pp.290-307.
 - Jie Lian, ChenGuang Liu, Wenjuan Li, Steve Evans, Yong Yin.  Formation of independent manufacturing cells with the consideration of multiple identical machines.  International Journal of Production Research, 52(2014), pp.1363-1400. 
-- ChenGuang Liu,  Wenjuan Li , Jie Lian, Yong Yin. Reconfiguration of assembly systems: from conveyor assembly line to serus.  Journal of Manufacturing Systems , 31(2012), pp.312-325 
+- ChenGuang Liu,  Wenjuan Li , Jie Lian, Yong Yin. Reconfiguration of assembly systems: from conveyor assembly line to serus.  Journal of Manufacturing Systems , 31(2012), pp.312-325. 
 - ChenGuang Liu, Yufang Bai, Wenjuan Li, Jie Lian, Yong Yin. Decision making on production mode selection for manufacturing enterprises under two types of market structure (In Chinese).  Systems Engineering - Theory \& Practice , 33(2012), pp.49-59.

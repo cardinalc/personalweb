@@ -32,7 +32,7 @@ params:
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
-  footer: "-世界的意义是愿望与事实的分离-"
+  footer: "The meaning of world is the separation of wish and fact.   ---- Kurt Gödel"
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
