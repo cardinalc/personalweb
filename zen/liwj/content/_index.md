@@ -4,7 +4,9 @@ title: "Wenjuan　Li"
 
 ---
 
-My name is Wenjuan Li (李文娟). I obtained my PhD and master degree in mathematical logic from Mathematical Institute, Tohoku University, supervised by [Prof. Kazuyuki Tanaka (田中一之)](https://sendailogic.com/tanaka/). My research interests are mathematical logic and theory of computation. 
+My name is Wenjuan Li (李文娟). I obtained my PhD and master in mathematical logic from Mathematical Institute, Tohoku University, supervised by [Prof. Kazuyuki Tanaka (田中一之)](https://sendailogic.com/tanaka/). 
+
+My research interests include mathematical logic and theory of computation. 
 
 
 ## Working experience
