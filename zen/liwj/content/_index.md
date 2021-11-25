@@ -11,7 +11,7 @@ My research interests include mathematical logic and theory of computation.
 
 ## Working experience
 - Postdoc Research Fellow, Nanyang Technological University, 2018.05~2020.10
-- Research Assistent, Tohoku University, 2017.10~2018.03
+- Research Assistant, Tohoku University, 2017.10~2018.03
 
 ## Awards and Scholarship
 - [Kawai Prize for doctoral dissertation 博士論文川井賞](http://www.sci.tohoku.ac.jp/news/20180313-9567.html), Tohoku University，2018.03\
