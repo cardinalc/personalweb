@@ -8,17 +8,36 @@ title: "Research"
 
 #### Determiancay of $\omega$-languages recognized by various automata   
 
+The *determinacy* of Gale-Stewart games, *i.e.*, one of the two players has a winning strategy, has been intensively studied in descriptive set theory. One of the celebrated results due to  D.A. Martin (1975) states that "All the Gale-Stewart games with Borel winning sets are determined".  On the other hand, the winning sets can also be defined by some kinds of automata. 
+Büchi and Landweber (1969), and  Walukiewicz (2001) construct the winning strategies of infinite games in which winning sets are the $\omega$-languages accepted by some deterministic finite/pushdown automata. Finkel (2013) further studies the infinite games in which the winning sets are $\omega$-languages accepted by nondeterministic pushdown automata and proves such games are not determined even within the set theory $\mathsf{ZFC}$.
+
+We downscale Finkel's results to lower level $\omega$-languages. We investigate the determinacy strength of infinite games whose winning sets are recognized
+by nondeterministic pushdown automata with various acceptance conditions, *e.g.*, safety, reachability and co-Büchi conditions. In terms of the foundational program "Reverse Mathematics", the determinacy strength of such games is measured by the complexity of a winning strategy required by the determinacy. Noticing that infinite games recognized by nondeterministic pushdown automata have some resemblance to those by deterministic 2-stack visibly pushdown automata (2DVPA) with the same acceptance conditions, we start with investigating the determinacy of infinite games recognized by 2DVPA and the nondeterministic ones and then establish the relation with the infinite games recognized with nondeterministic pushdown automata with the same acceptance conditions. 
+
 - Wenjuan Li, Kazuyuki Tanaka. The determinacy strength of pushdown $\omega$-languages. RAIRO-Theoretical Informatics and Applications,  51(2017), pp.29-50.
 - Wenjuan Li, Shohei Okisaka, Kazuyuki Tanaka. Infinite games recognized by 2-stack visibly pushdown automata. RIMS Kokyuroku (京都大学数理解析研究所講究録), 1950(2015), pp.121-137.
 
 
 #### Modal $\mu$-calculus 
+
+Modal $\mu$-calculus, an extension of modal logic by adding greatest and
+least fixpoint operators ($\mu$/$\nu$), is closely related with tree automata and parity games, which has wide applications in theoretical computer science due to its monotone iteration  property. One fundamental issue is the {\it complexity measure} of formulas of modal $\mu$-calculus, *e.g.*, alternation depths and number of variables. That is, whether more alternation of $\mu/ \nu$ and variables are necessary to express some complex properties.
+The alternation hierarchy ($\Sigma^{\mu}_n$/$\Pi^{\mu}_n$, $n\in \mathbb{N}$) and variable hierarchy are proved to be strict respectively \cite{Brad98a, Berwanger07}, over the class of all transition systems.
+
+We study the one-variable fragment of modal $\mu$-calculus and weak modal $\mu$-calculus, which is essential the same as $\Sigma^{\mu}_2\cap \Pi^{\mu}_2$ in the alternation hierarchy.
+Our proof of strictness relies on weak parity games.
+
 - Leonard Pacheco, Wenjuan Li, Kazuyuki Tanaka. On one-variable fragments of modal $\mu$-calculus. Computability Theory and Foundations of Mathematics 2019 (Wuhan), World-Scientific (2021), to appear.
 - Wenjuan Li, Yasuhiko Omata, Kazuyuki Tanaka. Alternation hierarchies and fragments of modal $\mu$-calculus. RIMS Kokyuroku (京都大学数理解析研究所講究録), 2083(2018), pp.98-110.
 
 
 
 #### Query complexity of game trees 
+
+The evaluation of game trees plays a crucial role in artificial intelligence, especially Boolean AND-OR trees, which provides a game-theoretic technique to design and analyze randomized algorithms ( Saks and Wigderson, 1986; Yao, 1977). 
+
+Liu and Tanaka (2007) characterize the eigen-distributions that achieve the distributional complexity, and prove the uniqueness of eigen-distribution for uniform binary trees. We extend the results to balanced and even general multi-braching trees via studying the weighted game trees.
+
 - Shohei Okisaka, Weiguang Peng, Wenjuan Li, Kazuyuki Tanaka. The eigen-distribution of weighted game trees. Lecture Notes in Computer Science,  10627(2017), pp.286-297.
 - Weiguang Peng, Shohei Okisaka, Wenjuan Li, Kazuyuki Tanaka. The uniqueness of eigen-distribution under non-directional algorithms. IAENG International Journal of Computer Science, 43(2016), pp.318-325.
 
