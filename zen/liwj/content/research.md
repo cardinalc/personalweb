@@ -21,8 +21,8 @@ by nondeterministic pushdown automata with various acceptance conditions, *e.g.*
 #### Modal $\mu$-calculus 
 
 Modal $\mu$-calculus, an extension of modal logic by adding greatest and
-least fixpoint operators ($\mu$/$\nu$), is closely related with tree automata and parity games, which has wide applications in theoretical computer science due to its monotone iteration  property. One fundamental issue is the {\it complexity measure} of formulas of modal $\mu$-calculus, *e.g.*, alternation depths and number of variables. That is, whether more alternation of $\mu/ \nu$ and variables are necessary to express some complex properties.
-The alternation hierarchy ($\Sigma^{\mu}_n$/$\Pi^{\mu}_n$, $n\in \mathbb{N}$) and variable hierarchy are proved to be strict respectively \cite{Brad98a, Berwanger07}, over the class of all transition systems.
+least fixpoint operators ($\mu$/$\nu$), is closely related with tree automata and parity games, which has wide applications in theoretical computer science due to its monotone iteration  property. One fundamental issue is the *complexity measure* of formulas of modal $\mu$-calculus, *e.g.*, alternation depths and number of variables. That is, whether more alternation of $\mu/ \nu$ and variables are necessary to express some complex properties.
+The alternation hierarchy ($\Sigma^{\mu}_n$/$\Pi^{\mu}_n$, $n\in \mathbb{N}$) and variable hierarchy are proved to be strict respectively (Bradfield, 1998; Berwanger, Grädel, Lenzi, 2007), Berwanger07, over the class of all transition systems.
 
 We study the one-variable fragment of modal $\mu$-calculus and weak modal $\mu$-calculus, which is essential the same as $\Sigma^{\mu}_2\cap \Pi^{\mu}_2$ in the alternation hierarchy.
 Our proof of strictness relies on weak parity games.
