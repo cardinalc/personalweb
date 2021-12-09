@@ -22,7 +22,7 @@ by nondeterministic pushdown automata with various acceptance conditions, *e.g.*
 
 Modal $\mu$-calculus, an extension of modal logic by adding greatest and
 least fixpoint operators ($\mu$/$\nu$), is closely related with tree automata and parity games, which has wide applications in theoretical computer science due to its monotone iteration  property. One fundamental issue is the *complexity measure* of formulas of modal $\mu$-calculus, *e.g.*, alternation depths and number of variables. That is, whether more alternation of $\mu/ \nu$ and variables are necessary to express some complex properties.
-The alternation hierarchy ($\Sigma^{\mu}_n$/$\Pi^{\mu}_n$, $n\in \mathbb{N}$) and variable hierarchy are proved to be strict respectively (Bradfield, 1998; Berwanger, Grädel, Lenzi, 2007), Berwanger07, over the class of all transition systems.
+The alternation hierarchy ($\Sigma^{\mu}_n$/$\Pi^{\mu}_n$, $n\in \mathbb{N}$) and variable hierarchy are proved to be strict respectively (Bradfield, 1998; Berwanger, Grädel, Lenzi, 2007), over the class of all transition systems.
 
 We study the one-variable fragment of modal $\mu$-calculus and weak modal $\mu$-calculus, which is essential the same as $\Sigma^{\mu}_2\cap \Pi^{\mu}_2$ in the alternation hierarchy.
 Our proof of strictness relies on weak parity games.
@@ -42,7 +42,8 @@ Liu and Tanaka (2007) characterize the eigen-distributions that achieve the dist
 - Weiguang Peng, Shohei Okisaka, Wenjuan Li, Kazuyuki Tanaka. The uniqueness of eigen-distribution under non-directional algorithms. IAENG International Journal of Computer Science, 43(2016), pp.318-325.
 
 ##  Decision analysis
-- Xiaoli Zhang, ChenGuang Liu,  Wenjuan Li, Steve Evans, Yong Yin. Effects of key enabling technologies for seru production on sustainable performance. OMEGA -The International Journal of Management Science, 66(2017), pp.290-307.
+- Jie Lian, ChenGuang Liu,  Wenjuan Li,Juning Su, Hongquan Xue. Task dispatching in reconfigurable *seru* production systems to minimize total earliness and tardness, European Journal of Industrial Engineering, *accepted*, 2021.
+- Xiaoli Zhang, ChenGuang Liu,  Wenjuan Li, Steve Evans, Yong Yin. Effects of key enabling technologies for *seru* production on sustainable performance. OMEGA -The International Journal of Management Science, 66(2017), pp.290-307.
 - Jie Lian, ChenGuang Liu, Wenjuan Li, Steve Evans, Yong Yin.  Formation of independent manufacturing cells with the consideration of multiple identical machines.  International Journal of Production Research, 52(2014), pp.1363-1400. 
-- ChenGuang Liu,  Wenjuan Li , Jie Lian, Yong Yin. Reconfiguration of assembly systems: from conveyor assembly line to serus.  Journal of Manufacturing Systems , 31(2012), pp.312-325. 
+- ChenGuang Liu,  Wenjuan Li , Jie Lian, Yong Yin. Reconfiguration of assembly systems: from conveyor assembly line to *seru*s.  Journal of Manufacturing Systems , 31(2012), pp.312-325. 
 - ChenGuang Liu, Yufang Bai, Wenjuan Li, Jie Lian, Yong Yin. Decision making on production mode selection for manufacturing enterprises under two types of market structure (In Chinese).  Systems Engineering - Theory \& Practice , 33(2012), pp.49-59.
