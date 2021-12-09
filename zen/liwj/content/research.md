@@ -42,7 +42,7 @@ Liu and Tanaka (2007) characterize the eigen-distributions that achieve the dist
 - Weiguang Peng, Shohei Okisaka, Wenjuan Li, Kazuyuki Tanaka. The uniqueness of eigen-distribution under non-directional algorithms. IAENG International Journal of Computer Science, 43(2016), pp.318-325.
 
 ##  Decision analysis
-- Jie Lian, ChenGuang Liu,  Wenjuan Li,Juning Su, Hongquan Xue. Task dispatching in reconfigurable *seru* production systems to minimize total earliness and tardness, European Journal of Industrial Engineering, *accepted*, 2021.
+- Jie Lian, ChenGuang Liu,  Wenjuan Li, Juning Su, Hongquan Xue. Task dispatching in reconfigurable *seru* production systems to minimize total earliness and tardness, European Journal of Industrial Engineering, *accepted*, 2021.
 - Xiaoli Zhang, ChenGuang Liu,  Wenjuan Li, Steve Evans, Yong Yin. Effects of key enabling technologies for *seru* production on sustainable performance. OMEGA -The International Journal of Management Science, 66(2017), pp.290-307.
 - Jie Lian, ChenGuang Liu, Wenjuan Li, Steve Evans, Yong Yin.  Formation of independent manufacturing cells with the consideration of multiple identical machines.  International Journal of Production Research, 52(2014), pp.1363-1400. 
 - ChenGuang Liu,  Wenjuan Li , Jie Lian, Yong Yin. Reconfiguration of assembly systems: from conveyor assembly line to *seru*s.  Journal of Manufacturing Systems , 31(2012), pp.312-325. 
