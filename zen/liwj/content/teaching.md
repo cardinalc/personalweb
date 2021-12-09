@@ -2,7 +2,7 @@
 title: "Teaching"
 
 ---
-##  Teaching Asistant
+##  Teaching Assistant
 - **Probability, Statistics and Uncertainty in Measurement** (undergraduate), Summer 2021, Tsinghua University
 - **Big Data Methods in Experimental Physics** (undergraduate), Summer 2021, Tsinghua University
 - **Inventory Thoery** (PhD), Spring 2020, Nanyang Technological University, Singapore
