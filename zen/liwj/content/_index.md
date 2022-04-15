@@ -8,32 +8,10 @@ My name is Wenjuan Li (李文娟). I am now a postdoc at Beijing Institute of Ma
 
 My research interests include mathematical logic, theory of computation, and decision analysis.
 
-
 ## Working experience
 - Postdoc, BIMSA, 2022.04 ~
 - Postdoc Research Fellow, Nanyang Technological University, 2018.05 ~ 2020.10
 - Research Assistant, Tohoku University, 2017.10 ~ 2018.03
-
-## Awards and Scholarship
-- [Kawai Prize for doctoral dissertation 博士論文川井賞](http://www.sci.tohoku.ac.jp/news/20180313-9567.html), Tohoku University，2018.03\
-  Thesis：Automata-theoretic study on infinite games and fragments of modal $\mu$-calculus
-- [Professor Fujino Incentive Award 藤野先生記念奨励賞](https://www.tohoku.ac.jp/japanese/2017/09/news20170929-01.html), Tohoku University, 2017.09\
-  Theme：automata on $\omega$-words and determinacy of infinite games
-- [Best Paper Award](http://www.iaeng.org/publication/IMECS2016/), International Multi-Conference of Engineers and Computer Scientists, 2016.03\
-  Paper: The eigen-distribution for multi-branching trees
-- IGPAS MEXT Scholarship, Tohoku University，2012.10-2017.09
-- China National Scholarship，2012.11
-
-## Talks 
-- 2018.12  One-variable fragment of modal $\mu$-calculus, Sendai Logic Schoool, Tohoku University, Japan
-- 2017.09  Infinite words and pushdown automata, Mathematical Society of Japan, Yamagata University, Japan
-- 2016.09 Determinacy strength of infinite games in $\omega$-languages recognized by variations of pushdown automata, Workshop on Mathematical Logic and its Applications,
-RIMS-Research Institute for Mathematical Sciences, Kyoto University, Japan
-- The determinacy of infinite games recognized by various pushdown automata \
-    -- 2015.03 JSPS-NUS Joint Workshop in Foundations of Mathematics, JAIST, Japan\
-    -- 2014.12 RIMS Workshop on Proof, Computation and Related Issues, RIMS, Kyoto University, Japan
-
-
 
 ## Others
 - [Global Young Scientists Summit](https://www.nrf.gov.sg/gyss/features/gyss-2020-highlights), Singapore, 2020.01
