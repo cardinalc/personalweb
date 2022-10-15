@@ -3,7 +3,7 @@ title: "Teaching"
 
 ---
 ##  Teaching Assistant
-- **Logic and Computation I** (undergraduate), Autumn 2022, BIMSA
+- **Logic and Computation I** (graduate), Autumn 2022, BIMSA
 - **Probability, Statistics and Uncertainty in Measurement** (undergraduate), Autumn 2021, Tsinghua University
 - **Big Data Methods in Experimental Physics** (undergraduate), Summer 2021, Tsinghua University
 - **Inventory Thoery** (PhD), Spring 2020, Nanyang Technological University, Singapore
