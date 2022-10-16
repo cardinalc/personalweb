@@ -27,7 +27,7 @@ The alternation hierarchy ($\Sigma^{\mu}_n$/$\Pi^{\mu}_n$, $n\in \mathbb{N}$) an
 We study the one-variable fragment of modal $\mu$-calculus and weak modal $\mu$-calculus, which is essential the same as $\Sigma^{\mu}_2\cap \Pi^{\mu}_2$ in the alternation hierarchy.
 Our proof of strictness relies on weak parity games.
 
-- Leonard Pacheco, Wenjuan Li, Kazuyuki Tanaka. On one-variable fragments of modal $\mu$-calculus. Computability Theory and Foundations of Mathematics 2019 (Wuhan), World-Scientific (2021), to appear.
+- Leonard Pacheco, Wenjuan Li, Kazuyuki Tanaka. On one-variable fragments of modal $\mu$-calculus. Computability Theory and Foundations of Mathematics, World-Scientific, pp. 17-45, 2022.
 - Wenjuan Li, Yasuhiko Omata, Kazuyuki Tanaka. Alternation hierarchies and fragments of modal $\mu$-calculus. RIMS Kokyuroku (京都大学数理解析研究所講究録), 2083(2018), pp.98-110.
 
 
