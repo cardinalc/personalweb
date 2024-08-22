@@ -47,7 +47,7 @@ Liu and Tanaka (2007) characterize the eigen-distributions that achieve the dist
 
 ##  Decision analysis
 
-I have not give up my interest in modeling real-life problems and making decision analysis. I am learning more on the data-driven method to solve such problems. 
+I have not given up my interest in modeling real-life problems and making decision analysis. I am learning more on the data-driven method to solve such problems. 
 
 - Task dispatching in reconfigurable *seru* production systems to minimize total earliness and tardness, European Journal of Industrial Engineering, 16(3), 241-267, 2022. （with  J. Lian, C. Liu,  J. Su, H. Xue）
 - A multi-skilled worker assignment problem in seru production systems considering the worker heterogeneity. Computers & Industrial Engineering, 2018, 118: 366-382. (with J. Lian, C. Liu, Y. Yin)

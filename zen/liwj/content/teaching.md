@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 ##  Teaching Assistant
 - **[Logic and Foundation II](http://hep.tsinghua.edu.cn/~liwj/)** (graduate), Spring 2024, BIMSA
-- **Logic and FoundationI** (graduate), Autumn 2023, BIMSA
+- **Logic and Foundation I** (graduate), Autumn 2023, BIMSA
 - **Logic and Computation II** (graduate), Spring 2023, BIMSA
 - **Logic and Computation I** (graduate), Autumn 2022, BIMSA
 - **Probability, Statistics and Uncertainty in Measurement** (undergraduate), Autumn 2021, Tsinghua University
