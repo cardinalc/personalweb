@@ -22,9 +22,4 @@ if (typeof Cookies !== 'undefined' && Cookies.get('cookieconsent') === 'accept')
   _paq.push(['setConsentGiven']);
 }
 
-var googleAnalytics = '{{ .Site.GoogleAnalytics }}';
-if (cookieConsent) {
-  if (typeof Cookies === 'undefined' || Cookies.get('cookieconsent') !== 'accept') {
-    window['ga-disable-' + googleAnalytics] = true;
-  }
-}
+
