@@ -3,11 +3,9 @@ title: "Teaching"
 
 ---
 ##  Teaching Assistant
-- **[Logic and Computation I](http://hep.tsinghua.edu.cn/~liwj/)** (graduate), Autumn 2024, BIMSA
-- **Logic and Foundation II** (graduate), Spring 2024, BIMSA
-- **Logic and Foundation I** (graduate), Autumn 2023, BIMSA
-- **Logic and Computation II** (graduate), Spring 2023, BIMSA
-- **Logic and Computation I** (graduate), Autumn 2022, BIMSA
+- **[Logic and Computation I and II](https://hep.tsinghua.edu.cn/~liwj/)** (graduate), Autumn 2022, Spring 2023, Autumn 2024, BIMSA
+- **Logic and Foundation I and II** (graduate), Autumn 2023, Spring 2024, BIMSA
+-  **Qiuzhen Yiyou Scholar**, Spring 2023, Qiuzhen Collage, Tsinghua University
 - **Probability, Statistics and Uncertainty in Measurement** (undergraduate), Autumn 2021, Tsinghua University
 - **Big Data Methods in Experimental Physics** (undergraduate), Summer 2021, Tsinghua University
 - **Inventory Thoery** (PhD), Spring 2020, Nanyang Technological University, Singapore
