@@ -4,12 +4,13 @@ title: "Wenjuan　Li"
 
 ---
 
-My name is Wenjuan Li (李文娟). I am now a postdoc at Beijing Institute of Mathematical Sciences and Applications (BIMSA).  I obtained my PhD and master in mathematical logic from Mathematical Institute, Tohoku University, supervised by [Prof. Kazuyuki Tanaka (田中一之)](https://sendailogic.com/tanaka.html). 
+My name is Wenjuan Li (李文娟). I am now an Assistant Research Fellow at Beijing Institute of Mathematical Sciences and Applications (BIMSA).  I obtained my PhD and master in mathematical logic from Mathematical Institute, Tohoku University, supervised by [Prof. Kazuyuki Tanaka (田中一之)](https://sendailogic.com/tanaka.html). 
 
 My research interests include mathematical logic, theory of computation, and decision analysis.
 
 ## Working experience
-- Postdoc, BIMSA, 2022.04 ~
+- Assistant Research Fellow, BIMSA, 2025.01 ~ 
+- Postdoc, BIMSA, 2022.04 ~ 2024.12
 - Postdoc Research Fellow, Nanyang Technological University, 2018.05 ~ 2020.10
 - Research Assistant, Tohoku University, 2017.10 ~ 2018.03
 
