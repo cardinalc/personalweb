@@ -6,8 +6,8 @@ languageCode: "en-GB"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
-paginate: 10
-paginatePath: "page"
+pagination.pagerSize: 10
+pagination.path: "page"
 rssLimit: 20
 author:
   name: "Wenjuan Li"
