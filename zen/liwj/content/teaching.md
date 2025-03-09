@@ -2,7 +2,10 @@
 title: "Teaching"
 
 ---
-##  Teaching Assistant
+## Instructor 
+- **Automata Theory and Formal Languages**(sgraduate), Spring 2025, bIMSA
+
+## Teaching Assistant
 - **[Logic and Computation I and II](https://hep.tsinghua.edu.cn/~liwj/)** (graduate), Autumn 2022, Spring 2023, Autumn 2024, BIMSA
 - **Logic and Foundation I and II** (graduate), Autumn 2023, Spring 2024, BIMSA
 - **Inventory Thoery** (graduate), Spring 2020, Nanyang Technological University, Singapore

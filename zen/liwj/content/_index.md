@@ -9,7 +9,7 @@ My name is Wenjuan Li (李文娟). I am now an Assistant Research Fellow at Beij
 My research interests include mathematical logic, theory of computation, and decision analysis.
 
 ## Working experience
-- Assistant Research Fellow, BIMSA, 2025.01 ~ 
+- Assistant Research Fellow (助理研究员), BIMSA, 2025.01 ~ 
 - Postdoc, BIMSA, 2022.04 ~ 2024.12
 - Postdoc Research Fellow, Nanyang Technological University, 2018.05 ~ 2020.10
 - Research Assistant, Tohoku University, 2017.10 ~ 2018.03
@@ -22,6 +22,7 @@ My research interests include mathematical logic, theory of computation, and dec
 - [Sendai Logic School](https://sendailogic.com/sls/), Japan, 2012-2018
 
 ## Links
+- [中国数学会数理逻辑专业委员会 (Mathematical logic in China)](https://logic.nankai.edu.cn/china/main.htm)
 - [Beijing Institute of Mathematical Sciences and Applications (BIMSA)](http://www.bimsa.cn/wzsy)
 - [Mathematical Institute, Tohoku University](http://www.math.tohoku.ac.jp/)
 - [Sendai Logic Seminar 仙台ロジックセミナー](https://sites.google.com/view/sendai-logic/)
