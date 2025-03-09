@@ -3,7 +3,7 @@ title: "Teaching"
 
 ---
 ## Instructor 
-- **Automata Theory and Formal Languages**(sgraduate), Spring 2025, bIMSA
+- **Automata Theory and Formal Languages**(graduate), Spring 2025, bIMSA
 
 ## Teaching Assistant
 - **[Logic and Computation I and II](https://hep.tsinghua.edu.cn/~liwj/)** (graduate), Autumn 2022, Spring 2023, Autumn 2024, BIMSA
