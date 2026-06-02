@@ -3,7 +3,9 @@ title: "Teaching"
 
 ---
 ## Instructor 
-- **Automata Theory and Formal Languages**(graduate), Spring 2025, bIMSA
+
+- **Logic, games and automata I and II**(graduate), Autumn 2025, Spring 2026, BIMSA
+- **Automata Theory and Formal Languages**(graduate), Spring 2025, BIMSA
 
 ## Teaching Assistant
 - **[Logic and Computation I and II](https://hep.tsinghua.edu.cn/~liwj/)** (graduate), Autumn 2022, Spring 2023, Autumn 2024, BIMSA
@@ -16,4 +18,4 @@ title: "Teaching"
 - **Mathematical Computer Science A and B** (undergraduate), Autumn 2016 - Spring 2017, Tohoku University, Japan
 
 ## Undergraduate mentor
-- **Qiuzhen Yiyou Scholar**, Spring 2023, Qiuzhen Collage, Tsinghua University
+- **Qiuzhen Yiyou Scholar(求真益友)**, Spring 2023, Qiuzhen Collage, Tsinghua University
