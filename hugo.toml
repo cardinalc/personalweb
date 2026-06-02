@@ -1,4 +1,5 @@
 baseURL = 'https://cardinalc.github.io/personalweb/'
+theme = "zen"
 canonifyURLs = true
 relativeURLs = true
 [menu]
