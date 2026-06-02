@@ -14,7 +14,7 @@ My research interests include mathematical logic, theory of computation, and dec
 - Postdoc Research Fellow, Nanyang Technological University, 2018.05 ~ 2020.10
 - Research Assistant, Tohoku University, 2017.10 ~ 2018.03
 
-## Others
+## Others 
 - [International Congress of Basic Science](https://www.icbs.cn), Beijing, China, 2023, 2024, 2025
 - [Global Young Scientists Summit](https://gyss.nrf.gov.sg/), Singapore, 2020.01
 - [IMS Graduate Summer School in Logic](https://imsarchives.nus.edu.sg/oldwww/Programs/015logicss/ss.html), IMS, National University of Singapore, 2015.06
