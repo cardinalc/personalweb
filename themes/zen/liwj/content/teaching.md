@@ -4,12 +4,13 @@ title: "Teaching"
 ---
 ## Instructor 
 
-- **Logic, games and automata I and II**(graduate), Autumn 2025, Spring 2026, BIMSA
-- **Automata Theory and Formal Languages**(graduate), Spring 2025, BIMSA
+- **Logic, Games and Automata I and II (逻辑，博弈与自动机)** (graduate), Autumn 2025, Spring 2026, BIMSA
+- **Automata Theory and Formal Languages (自动机理论与形式语言)** (graduate), Spring 2025, BIMSA
 
 ## Teaching Assistant
 - **[Logic and Computation I and II](https://hep.tsinghua.edu.cn/~liwj/)** (graduate), Autumn 2022, Spring 2023, Autumn 2024, BIMSA
 - **Logic and Foundation I and II** (graduate), Autumn 2023, Spring 2024, BIMSA
+- **Big Data Methods in Experimental Physics** (undergraduate), Summer 2021, Tsinghua University
 - **Inventory Thoery** (graduate), Spring 2020, Nanyang Technological University, Singapore
 - **Corporate Sustainability: Strategies, Innovations and Methodologies** (MBA), Autumn 2019, Nanyang Technological University, Singapore
 - **Probability and Statistics** (undergraduate), Autumn 2018, Nanyang Technological University, Singapore
@@ -18,4 +19,4 @@ title: "Teaching"
 - **Mathematical Computer Science A and B** (undergraduate), Autumn 2016 - Spring 2017, Tohoku University, Japan
 
 ## Undergraduate mentor
-- **Qiuzhen Yiyou Scholar(求真益友)**, Spring 2023, Qiuzhen Collage, Tsinghua University
+- **Qiuzhen Yiyou Scholar (求真益友)**, Spring 2023, Qiuzhen Collage, Tsinghua University
