@@ -2,3 +2,8 @@ baseURL = 'https://https://cardinalc.github.io/personalweb/'
 baseURL = 'https://cardinalc.github.io/personalweb/'
 canonifyURLs = true
 relativeURLs = true
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/personalweb/"
+    weight = 1
