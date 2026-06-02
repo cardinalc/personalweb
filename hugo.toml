@@ -1,1 +1,4 @@
 baseURL = 'https://https://cardinalc.github.io/personalweb/'
+baseURL = 'https://cardinalc.github.io/personalweb/'
+canonifyURLs = true
+relativeURLs = true
