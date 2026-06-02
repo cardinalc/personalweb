@@ -1,33 +1,63 @@
 name: liwj personal homepage
 
+
+
 on:
+
   push:
+
     branches:
-      - main
+
+      - main  # Set a branch to deploy
+
   pull_request:
 
+
+
 jobs:
+
   deploy:
+
     runs-on: ubuntu-latest
+
     steps:
+
       - uses: actions/checkout@v4
+
         with:
-          submodules: true
-          fetch-depth: 0
+
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+
 
       - name: Setup Hugo
+
         uses: peaceiris/actions-hugo@v3
+
         with:
+
           hugo-version: 'latest'
+
           extended: true
 
+
+
       - name: Build
-        # 这是最关键的一行！告诉服务器你的真实配置和内容，现在已经移到了 themes/zen/ 下面
-        run: hugo --minify --config themes/zen/liwj/config.yaml -c themes/zen/liwj/content
+
+        run: hugo --minify --config zen/liwj/config.yaml --themesDir . -c zen/liwj/content
+
+
 
       - name: Deploy
+
         uses: peaceiris/actions-gh-pages@v3
+
         if: github.ref == 'refs/heads/main'
+
         with:
+
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+
+          publish_dir: ./public 
